@@ -156,41 +156,6 @@ footer {
 
 }
 
-
-.jgc:hover {
-     display: block;
-     padding: 60px;
-     border: 5px solid #fff;
-     margin: 10px;
-     height: 400px;
-     background-image: url("./James\ Geovanny\ –\ James\ Geovanny.gif");
-    background-size: cover;
-     font-size: 0px
-
-}
-
-.jga:hover {
-    display: block;
-    padding: 60px;
-    border: 5px solid #fff;
-    margin: 10px;
-    height: 400px;
-    background-image: url("./James\ Geovanny\ Website.gif");
-    background-size: cover;
-    font-size: 0px;
-}
-
-.has:hover{
-    display: block;
-    padding: 60px;
-    border: 5px solid #fff;
-    margin: 10px;
-    height: 350px;
-    background-image: url("./HERISEON.gif");
-    background-size: cover;
-    font-size: 0;
-}
-
 .white{
     color: #fff;
 }
@@ -251,8 +216,44 @@ footer {
     }
     aside a{
         font-size: 30px;
-    }
-    
-    
+    }   
 }
     
+@media(hover){
+
+.jgc:hover {
+    display: block;
+    padding: 60px;
+    border: 5px solid #fff;
+    margin: 10px;
+    height: 400px;
+    background-image: url("./James\ Geovanny\ –\ James\ Geovanny.gif");
+    background-size: cover;
+    font-size: 0px
+
+}
+
+.jga:hover {
+   display: block;
+   padding: 60px;
+   border: 5px solid #fff;
+   margin: 10px;
+   height: 400px;
+   background-image: url("./James\ Geovanny\ Website.gif");
+   background-size: cover;
+   font-size: 0px;
+}
+
+.has:hover{
+   display: block;
+   padding: 60px;
+   border: 5px solid #fff;
+   margin: 10px;
+   height: 350px;
+   background-image: url("./HERISEON.gif");
+   background-size: cover;
+   font-size: 0;
+}
+
+
+}
