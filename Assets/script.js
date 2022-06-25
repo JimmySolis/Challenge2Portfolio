@@ -23,5 +23,5 @@ function keyPress(event){
   
 
 function handelRedirect(){
-    location.assign('homePage.html');
+    location.assign('https://jimmysolis.github.io/Challenge2Portfolio/homePage.html');
 }
