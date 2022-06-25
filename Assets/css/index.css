@@ -1,0 +1,46 @@
+* {
+    background-color:  #000000;
+    box-sizing: border-box;
+}
+
+header p {
+    font-family: 'VT323', monospace;
+}
+
+header {
+    padding: 60px;
+    border: 5px solid #fff;
+    margin: 50vh 5vh;
+    display:grid;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.textGo{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.log {
+    font-size: 40px;
+    color: yellow;
+   text-align: center;
+}
+
+.concole{
+    color: #ffff;
+    font-family:'Exo', sans-serif;
+    animation: cursor-blink 1s 
+    steps(2) infinite;
+}
+
+@keyframes cursor-blink {
+    0% {
+      opacity: 0;
+    }
+  }
