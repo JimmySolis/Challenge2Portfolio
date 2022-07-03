@@ -151,7 +151,7 @@ footer {
     height: 200px;
     width: 30%;
     border-radius: 100px ; 
-    background-image: url("/img/jamesGeovanyClothing.gif");
+    background-image: url("/Assets/img/jamesGeovanyClothing.gif");
     background-size: cover;
     font-size: 0px
 
@@ -165,7 +165,7 @@ footer {
     height: 200px;
     width: 30%;
     border-radius: 100px ; 
-    background-image: url("/img/jamesGeovannyArt.gif");
+    background-image: url("/Assets/img/jamesGeovannyArt.gif");
     background-size: cover;
     font-size: 0px;
 }
@@ -178,7 +178,7 @@ footer {
     height: 200px;
     width: 30%;
     border-radius: 100px ; 
-   background-image: url("/img/HERISEON.gif");
+   background-image: url("/Assets/img/HERISEON.gif");
    background-size: cover;
    font-size: 0;
 }
@@ -191,7 +191,7 @@ footer {
     height: 200px;
     width: 30%;
     border-radius: 100px ; 
-   background-image: url("/img/KYM.png");
+   background-image: url("/Assets/img/KYM.png");
    background-size: 150px;
    background-repeat: repeat;
    font-size: 0;
@@ -304,7 +304,7 @@ footer {
     font-size: 20px;
     text-align: center;
     justify-content: center;
-    background-image: url("/img/jamesGeovanyClothing.gif");
+    background-image: url("/Assets/img/jamesGeovanyClothing.gif");
     background-size: cover;
     background-position: center;   
     border: 5px solid #fff;
@@ -317,7 +317,7 @@ footer {
     border-radius: 100px;
     text-align: center;
     justify-content: center;
-    background-image: url("/img/jamesGeovannyArt.gif");
+    background-image: url("/Assets/img/jamesGeovannyArt.gif");
     background-size: cover;
     border: 5px solid #fff;
     }
@@ -326,7 +326,7 @@ footer {
     color: rgb(173, 181, 255);
     padding: 15%;
     font-size: 20px;
-    background-image: url("/img/HERISEON.gif");
+    background-image: url("/Assets/img/HERISEON.gif");
     background-size: cover;
     background-position: center;   
     border: 5px solid #fff;
@@ -340,7 +340,7 @@ footer {
     border-radius: 100px;
     text-align: center;
     justify-content: center;
-    background-image: url("/img/KYM.png");
+    background-image: url("/Assets/img/KYM.png");
     background-size: cover;
     background-position: center;   
     border: 5px solid #fff;
