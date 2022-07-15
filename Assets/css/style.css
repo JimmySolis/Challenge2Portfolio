@@ -376,7 +376,8 @@ footer {
     }
 
     .cD{
-    color: rgb(0, 0, 0);
+    color: #ffff;
+    height: 200px;
     padding: 10% ;
     font-size: 15px;
     border-radius: 100px;
