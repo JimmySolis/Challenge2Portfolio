@@ -111,7 +111,7 @@ footer {
 }
 
 
-.jgc , .jga , .has, .kym, .cD{
+.jgc , .jga , .has, .kym, .cD, .wtw{
     color: #fff;
     padding: 10px 0 ;
     margin: 10px 50px;
@@ -136,6 +136,13 @@ footer {
     color: rgb(173, 181, 255);
     font-size:35px;
    
+}
+
+.wtw{
+    color: #fff;
+    font-size:35px;
+    
+
 }
 
 .cD{
@@ -191,6 +198,20 @@ footer {
     border-radius: 100px ; 
    background-image: url("../img/HERISEON.gif");
    background-position:center ;
+   background-size: cover;
+   font-size: 0;
+}
+
+.wtw:hover{
+    display: flex;
+    padding: 60px;
+    border: 5px solid #fff;
+    margin: 10px;
+    height: 200px;
+    width: 30%;
+    border-radius: 100px ; 
+   background-image: url("../img/wtweather.gif");
+   background-position: center;  
    background-size: cover;
    font-size: 0;
 }
@@ -349,6 +370,32 @@ footer {
     background-size: cover;
     border: 5px solid #fff;
     }
+    .cD{
+        color: #ffff;
+        height: 200px;
+        padding: 10% ;
+        font-size: 15px;
+        border-radius: 100px;
+        text-align: center;
+        justify-content: center;
+        background-image: url("../img/Quiz.gif");
+        background-size: cover;
+        background-position: center;   
+        border: 5px solid #fff;
+        }
+     .wtw{
+        color: black;
+        height: 200px;
+        padding: 10% ;
+       font-size: 15px;
+        border-radius: 100px;
+        text-align: center;
+        justify-content: center;
+        background-image: url("../img/wtweather.gif");
+        background-size: cover;
+        background-position: center;   
+        border: 5px solid #fff;
+        }
 
     .has{
     color: rgb(173, 181, 255);
@@ -375,18 +422,5 @@ footer {
     border: 5px solid #fff;
     }
 
-    .cD{
-    color: #ffff;
-    height: 200px;
-    padding: 10% ;
-    font-size: 15px;
-    border-radius: 100px;
-    text-align: center;
-    justify-content: center;
-    background-image: url("../img/Quiz.gif");
-    background-size: cover;
-    background-position: center;   
-    border: 5px solid #fff;
-    }
 }
     
